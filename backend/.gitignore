@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+*.egg-info/
+
+# Environment
+.env
+
+# Models
+models/*.pkl
+
+# Logs
+*.log
+
+# OS
+.DS_Store
